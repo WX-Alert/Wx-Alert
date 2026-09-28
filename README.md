@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wx-alert-logo.svg" alt="WX Alert Service" width="640">
+  <img src="wx-alert-logo.svg" alt="WX Alert Service" width="640">
 </p>
 
 <p align="center">
