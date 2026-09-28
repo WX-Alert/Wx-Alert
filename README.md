@@ -59,7 +59,7 @@ Alerts reach you where you already look, without a new app to install or a dashb
 
 WX Alert Service is **free**. Access is granted individually, on request.
 
-📧 **To request access, contact us by email:** *[contact@wx-alert.com]*
+📧 **To request access, contact us by email:** *contact@wx-alert.com*
 
 Please include a short note about your operation (aircraft, typical aerodromes, and whether you use a compatible flight-planning setup) so access can be configured for you.
 
